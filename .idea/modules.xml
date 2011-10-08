@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DropBocs.iml" filepath="$PROJECT_DIR$/DropBocs.iml" />
+      <module fileurl="file://D:/Android/SDK/samples/android-13/HoneycombGallery/HoneycombGallery.iml" filepath="D:/Android/SDK/samples/android-13/HoneycombGallery/HoneycombGallery.iml" />
     </modules>
   </component>
 </project>
