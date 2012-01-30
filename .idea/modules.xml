@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DropBocs.iml" filepath="$PROJECT_DIR$/DropBocs.iml" />
-      <module fileurl="file://$USER_HOME$/android_sdk/samples/android-13/HoneycombGallery/HoneycombGallery.iml" filepath="$USER_HOME$/android_sdk/samples/android-13/HoneycombGallery/HoneycombGallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dropbocs.iml" filepath="$PROJECT_DIR$/dropbocs.iml" />
     </modules>
   </component>
 </project>
